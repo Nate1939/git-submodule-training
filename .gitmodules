@@ -1,0 +1,3 @@
+[submodule "submodules-source"]
+	path = submodules-source
+	url = https://github.com/Nate1939/submodules-source.git
