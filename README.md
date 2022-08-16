@@ -1,2 +1,2 @@
 # git-submodule-training
-Learn how to use git submodules
+Learn how to use git submodules.
